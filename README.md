@@ -18,7 +18,7 @@ I'm a 4th-semester Informatics student passionate about **Full-Stack Web Develop
 
 ### 📫 Connect with Me
 - 📧 Email: erikardiameka@gmail.com
-- 💼 LinkedIn: linkedin.com/in/erikadiameka
+- 💼 LinkedIn: https://www.linkedin.com/in/erikadiameka/
 
 ---
 
