@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Erik Adia Meka 👋
 
-<!--
-**erikadiameka/erikadiameka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 4th-semester Informatics student passionate about **Full-Stack Web Development** and **Mobile App Development**. I enjoy building functional, user-centric applications and exploring the depths of cybersecurity.
 
-Here are some ideas to get you started:
+### 🛠 My Tech Stack
+- **Languages:** HTML5, CSS3, JavaScript, PHP, SQL, Python
+- **Frameworks/Libraries:** Node.js, Express.js, React Native
+- **Tools & Tech:** Git, Linux, Postman, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Focus
+- 📱 Developing mobile applications with **React Native & Expo**.
+- 🌐 Mastering **Backend Architecture** using Node.js.
+- 🛡️ Exploring **Cybersecurity** (Vulnerability Scanning & SQL Injection testing).
+
+### 🌱 Featured Projects
+- **Organization Web Portal:** Built a robust web system for a local organization with PHP & SEO optimization.
+- **Personal Finance Tracker:** Developed a Python-based tool for efficient financial management.
+
+### 📫 Connect with Me
+- 📧 Email: erikardiameka@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/nama-kamu](https://linkedin.com/in/nama-kamu)
+
+---
+
+### 📊 My GitHub Stats
+![Erik's Stats](https://github-readme-stats.vercel.app/api?username=erikadiameka&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikadiameka&layout=compact&theme=radical)
