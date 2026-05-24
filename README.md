@@ -1,4 +1,4 @@
-# Hi there, I'm Erik Adia Meka 👋
+# Hi there, I'm Erik Adia Meka 
 
 I'm a 4th-semester Informatics student passionate about **Full-Stack Web Development** and **Mobile App Development**. I enjoy building functional, user-centric applications and exploring the depths of cybersecurity.
 
