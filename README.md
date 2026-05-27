@@ -1,27 +1,25 @@
-# Hi there, I'm Erik Adia Meka 
+Hi there, I'm Erik Adia Meka 
 
-I'm a 4th-semester Informatics student passionate about **Full-Stack Web Development** and **Mobile App Development**. I enjoy building functional, user-centric applications and exploring the depths of cybersecurity.
+I'm a 4th-semester Informatics student focused on Full-Stack Web Development and Mobile App Development. I enjoy turning ideas into real, functional products through rapid prototyping, iterative development, and practical problem-solving.
 
-###  My Tech Stack
-- **Languages:** HTML5, CSS3, JavaScript, PHP, SQL, Python
-- **Frameworks/Libraries:** Node.js, Express.js, React Native
-- **Tools & Tech:** Git, Linux, Postman, MySQL
+My approach to development is heavily project-driven — building fast, learning deeply, and refining along the way. I combine modern development tools, AI-assisted workflows, and hands-on experimentation to create efficient, scalable, and user-focused applications.
 
-###  Current Focus
--  Developing mobile applications with **React Native & Expo**.
--  Mastering **Backend Architecture** using Node.js.
--  Exploring **Cybersecurity** (Vulnerability Scanning & SQL Injection testing).
+Tech Stack
+• Languages: HTML5, CSS3, JavaScript, PHP, SQL, Python
+• Frameworks/Libraries: Node.js, Express.js, React Native, Expo
+• Tools & Technologies: Git, Linux, Postman, MySQL
 
-###  Featured Projects
-- **Organization Web Portal:** Built a robust web system for a local organization with PHP & SEO optimization.
-- **Personal Finance Tracker:** Developed a Python-based tool for efficient financial management.
+Current Focus
+• Building cross-platform mobile apps with React Native & Expo
+• Improving backend architecture and API development using Node.js
+• Exploring cybersecurity fundamentals, vulnerability assessment, and web security testing
+• Developing AI-assisted and workflow-oriented coding practices
 
-###  Connect with Me
-- 📧 Email: erikardiameka@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/erikadiameka/
+Featured Projects
+• Organization Web Portal — Developed a web-based information system with PHP, responsive UI, and SEO optimization
+• Personal Finance Tracker — Built a Python-based application for tracking and managing daily finances efficiently
 
----
+I’m always interested in collaborating, learning new technologies, and building meaningful digital products.
 
-### 📊 My GitHub Stats
-![Erik's Stats](https://github-readme-stats.vercel.app/api?username=erikadiameka&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikadiameka&layout=compact&theme=radical)
+📧 Email: [erikardiameka@gmail.com](mailto:erikardiameka@gmail.com)
+💼 LinkedIn: linkedin.com/in/erikadiameka
