@@ -1,62 +1,29 @@
-# Hi there, I'm Erik Adia Meka 
+Hi there, I'm Erik Adia Meka 
 
-I'm a 4th-semester Informatics student focused on **Full-Stack Web Development** and **Mobile App Development**.
+I'm a 4th-semester Informatics student focused on Full-Stack Web Development and Mobile App Development. I enjoy turning ideas into real, functional products through rapid prototyping, iterative development, and practical problem-solving.
 
-I enjoy turning ideas into real, functional products through rapid prototyping, iterative development, and practical problem-solving.
-
-My development style is highly project-driven — building fast, learning deeply, and refining along the way. I combine modern development tools, AI-assisted workflows, and hands-on experimentation to create efficient, scalable, and user-focused applications.
+My approach to development is heavily project-driven — building fast, learning deeply, and refining along the way. I combine modern development tools, AI-assisted workflows, and hands-on experimentation to create efficient, scalable, and user-focused applications.
 
 ---
 
-##  Tech Stack
+Tech Stack
+Languages: HTML5, CSS3, JavaScript, PHP, SQL, Python
+Frameworks/Libraries: Node.js, Express.js, React Native, Expo
+Tools & Technologies: Git, Linux, Postman, MySQL
 
-### Languages
+Current Focus
+Building cross-platform mobile apps with React Native & Expo
+Improving backend architecture and API development using Node.js
+Exploring cybersecurity fundamentals, vulnerability assessment, and web security testing
+Developing AI-assisted and workflow-oriented coding practices
 
-* HTML5
-* CSS3
-* JavaScript
-* PHP
-* SQL
-* Python
+Featured Projects
+Organization Web Portal — Developed a web-based information system with PHP, responsive UI, and SEO optimization
+Personal Finance Tracker — Built a Python-based application for tracking and managing daily finances efficiently
 
-### Frameworks & Libraries
-
-* Node.js
-* Express.js
-* React Native
-* Expo
-
-### Tools & Technologies
-
-* Git
-* Linux
-* Postman
-* MySQL
+I’m always interested in collaborating, learning new technologies, and building meaningful digital products.
 
 ---
 
-##  Current Focus
-
-* Building cross-platform mobile apps with React Native & Expo
-* Improving backend architecture and REST API development using Node.js
-* Exploring cybersecurity fundamentals, vulnerability assessment, and web security testing
-* Developing AI-assisted and workflow-oriented coding practices
-
----
-
-##  Featured Projects
-
-### Organization Web Portal
-
-Developed a web-based information system using PHP with responsive UI implementation and SEO optimization for a local organization.
-
-### Personal Finance Tracker
-
-Built a Python-based application for tracking and managing daily finances efficiently.
-
----
-
-##  Connect With Me
-
-📧 Email: **[erikardiameka@gmail.com](mailto:erikardiameka@gmail.com)**
-💼 LinkedIn: **linkedin.com/in/erikadiameka**
+📧 Email: [erikardiameka@gmail.com](mailto:erikardiameka@gmail.com)
+💼 LinkedIn: https://linkedin.com/in/erikadiameka
