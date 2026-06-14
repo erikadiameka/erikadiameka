@@ -26,5 +26,5 @@ I’m always interested in collaborating, learning new technologies, and buildin
 ---
 
 📧 Email: [erikardiameka@gmail.com](mailto:erikardiameka@gmail.com)
-💼 LinkedIn: https://linkedin.com/in/erikadiameka
+💼 LinkedIn: https://linkedin.com/in/erikadiame
 
