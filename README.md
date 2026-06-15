@@ -1,6 +1,6 @@
 Hi there, I'm Erik Adia 
 
-I'm a Informatics student focused on Full-Stack Web Development and Mobile App Development. I enjoy turning ideas into real, functional products through rapid prototyping, iterative development, and practical problem-solving.
+I'm a Informatics student focused on Full-Stack Web Development and Mobile App Development. I enjoy turning ideas into real, functional products through rapid prototyping, iterative development, and practical problem-solvin
 
 My approach to development is heavily project-driven — building fast, learning deeply, and refining along the way. I combine modern development tools, AI-assisted workflows, and hands-on experimentation to create efficient, scalable, and user-focused applications.
 
