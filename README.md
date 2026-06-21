@@ -1,4 +1,4 @@
-Hi there, I'm Erik Adia M
+Hi there, I'm Erik Adia Meka
 
 I'm a Informatics student focused on Full-Stack Web Development and Mobile App Development. I enjoy turning ideas into real, functional products through rapid prototyping, iterative development, and practical problem-solving.
 
