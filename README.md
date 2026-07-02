@@ -9,7 +9,7 @@ My approach to development is heavily project-driven — building fast, learning
 Tech Stack
 Languages: HTML5, CSS3, JavaScript, PHP, SQL, Python
 Frameworks/Libraries: Node.js, Express.js, React Native, Expo
-Tools & Technologies: Git, Linux, Postman, My
+Tools & Technologies: Git, Linux, Postman, MySQL
 
 Current Focus
 Building cross-platform mobile apps with React Native & Expo
