@@ -15,7 +15,7 @@
 
 ## About Me
 
-Hi, I'm Erik  , an Informatics student who enjoys building modern web applications and learning cybersecurity.
+Hi, I'm Erik Adia  , an Informatics student who enjoys building modern web applications and learning cybersecurity.
 
 I love creating useful software with Laravel, JavaScript, PHP and MySQL while continuously improving my programming skills.
 
