@@ -19,7 +19,7 @@ Hi, I'm Erik Adia Meka , an Informatics student who enjoys building modern web a
 
 I love creating useful software with Laravel, JavaScript, PHP and MySQL while continuously improving my programming skills.
 
-Besides coding, I'm also building MekaFood Project to support local  through engaging food content.
+Besides coding, I'm also building MekaFood Project to support local UMKM through engaging food content.
 
 ## Current Focus
 
